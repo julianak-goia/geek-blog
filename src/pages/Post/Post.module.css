@@ -5,6 +5,10 @@
     justify-content: center;
 }
 
+.post_container h1 {
+    max-width: 600px;
+}
+
 .post_container h3 {
     margin-bottom: .2rem;
 }

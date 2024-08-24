@@ -30,3 +30,6 @@
     padding: 10px 25px;
 }
 
+.post {
+    max-width: 800px;
+}
